@@ -1,4 +1,4 @@
-for i in range(100):
+for i in range(10):
     if i%2 != 0:
         print(i)
-        #this is bug branch
+        print(i+1)
